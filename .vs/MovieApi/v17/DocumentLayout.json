@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MovieApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|d:\\projects\\movieapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|d:\\projects\\movieapi\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|solutionrelative:repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|d:\\projects\\movieapi\\movieservices\\movieservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|solutionrelative:movieservices\\movieservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|d:\\projects\\movieapi\\movieservices\\imovieservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|solutionrelative:movieservices\\imovieservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|d:\\projects\\movieapi\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|solutionrelative:repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|d:\\projects\\movieapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|d:\\projects\\movieapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|d:\\projects\\movieapi\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E50274-6D31-4F18-948E-FA659FC645AA}|MovieApi.csproj|solutionrelative:models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\MovieApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\MovieApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:06:39.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\MovieApi\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IMovieRepository.cs",
+              "ToolTip": "D:\\Projects\\MovieApi\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "Repository\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T01:11:12.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovieServices.cs",
+              "DocumentMoniker": "D:\\Projects\\MovieApi\\MovieServices\\IMovieServices.cs",
+              "RelativeDocumentMoniker": "MovieServices\\IMovieServices.cs",
+              "ToolTip": "D:\\Projects\\MovieApi\\MovieServices\\IMovieServices.cs",
+              "RelativeToolTip": "MovieServices\\IMovieServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T01:01:57.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieServices.cs",
+              "DocumentMoniker": "D:\\Projects\\MovieApi\\MovieServices\\MovieServices.cs",
+              "RelativeDocumentMoniker": "MovieServices\\MovieServices.cs",
+              "ToolTip": "D:\\Projects\\MovieApi\\MovieServices\\MovieServices.cs",
+              "RelativeToolTip": "MovieServices\\MovieServices.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:43:21.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\MovieApi\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MovieRepository.cs",
+              "ToolTip": "D:\\Projects\\MovieApi\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "Repository\\MovieRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwD4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:45:55.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Projects\\MovieApi\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Projects\\MovieApi\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:37:01.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\MovieApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\MovieApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T16:02:52.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "D:\\Projects\\MovieApi\\Models\\MovieContext.cs",
+              "RelativeDocumentMoniker": "Models\\MovieContext.cs",
+              "ToolTip": "D:\\Projects\\MovieApi\\Models\\MovieContext.cs",
+              "RelativeToolTip": "Models\\MovieContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:08:17.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
